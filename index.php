@@ -11,8 +11,15 @@
   </head>
   <body>
     <article class="img-slide">
+      <div class="slide-blur">
+
+      </div>
       <div class="slide-img">
 
+      </div>
+      <div class="contents-div">
+        <h3>한양대학교 ERICA 소프트웨어학부에</h3>
+        <h3>방문해주신 여러분을 환영합니다.</h3>
       </div>
     </article>
   </body>
