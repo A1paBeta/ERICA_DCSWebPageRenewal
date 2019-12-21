@@ -7,6 +7,7 @@ height: 4%;
 ul{
   margin-right: 10%;
 }
+
 ul > p{
   margin: 0.5% 1%;
     color: #fff;
@@ -42,7 +43,9 @@ nav > ul > li{
     margin: auto 3%;
     float: right;
 }
-
+nav > ul > li:hover{
+  cursor: pointer;
+}
 #logo{
   height: 90%;
       margin-left: 5%;

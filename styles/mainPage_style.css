@@ -10,15 +10,83 @@
       text-align: center;
       border-bottom: 1px solid #eaeaea;
 }
+.infor1{
+  background-image: url('http://sw.hanyang.ac.kr/img/information_1.gif');
+}
+
+.infor2{
+  background-image: url('http://sw.hanyang.ac.kr/img/information_2.gif');
+}
+
+.infor3{
+  background-image: url('http://sw.hanyang.ac.kr/img/information_3.gif');
+}
+
+.infor4{
+  background-image: url('http://sw.hanyang.ac.kr/img/information_4.gif');
+}
+.video1{
+  width: 100%;
+}
 
 .department{
-  background-image: url('http://computing.hanyang.ac.kr/img/department_bg.gif');
-  height: 30%;
-  padding: 1% 0;
+  background-size: 100% 100%;
+  background-image: url(http://sw.hanyang.ac.kr/img/information_bg.gif);
+  height: 55%;
+  padding: 4% 0;
+  width: 100%;
+  border-bottom: 1px solid #eaeaea;
+
 }
 
 .department > h4{
-  margin : 0;
-
+    margin: 0 0 4% 0;
   text-align: center;
+}
+
+.department_in{
+  margin: 0 auto;
+      width: fit-content;
+}
+
+.department_in > li{
+  width: 262.5px;
+      height: 278px;
+      margin: auto;
+      position: relative;
+      top: 52%;
+      float: left;
+      font-size: 19px;
+      border: 1px solid #eaeaea;
+}
+
+.department_in > li > h5{
+  width: fit-content;
+      margin: auto;
+      position: relative;
+      top: 52%;
+      font-size: 21px;
+}
+
+.department_in > li > p{
+  color: #9a9a9a;
+font-size: 15px;
+position: relative;
+top: 59%;
+text-align: center;
+
+}
+
+.department_in > li:hover{
+  cursor: pointer;
+}
+
+footer{
+  position: absolute;
+
+    left: 0;
+
+    bottom: 0;
+
+    width: 100%;
 }
