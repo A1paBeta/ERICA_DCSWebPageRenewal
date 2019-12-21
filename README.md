@@ -1,5 +1,9 @@
 # Hanyang ERICA Univ. Division Of Computer science web page renewal project
 ## 0. Members (구성원)
+#### 이용현 2019034684 / A1paBeta
+#### 윤진난 2019044802 / Jinnan-Yun
+#### 추효정 2019060637 / choohyojung
+#### 장종훈 2019021003 / jh000408
 
 ## 1. Issue (개발동기)
 #### - 기존 소프트웨어학부의 홈페이지를 새로운 UI/UX 디자인으로 갱신하고 싶다는 생각이 들었습니다.
