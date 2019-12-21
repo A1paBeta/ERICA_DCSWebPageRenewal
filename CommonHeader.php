@@ -7,7 +7,6 @@
     <link href="./assets/HYU_symbol_basic_png.ico" rel="shortcut icon" type="image/x-icon">
     <!-- CSS3 불러오기(link) -->
     <link rel="stylesheet" href="./styles/common_style.css">
-
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.css">
     <!--JQuery 불러오기(CDN) -->
     <script src="https://code.jquery.com/jquery-3.4.1.js" integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU=" crossorigin="anonymous"></script>

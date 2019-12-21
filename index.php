@@ -21,7 +21,7 @@
           <h4>소프트웨어학부 홈페이지에</h4></br></br>
           <h4>방문해주셔서 감사합니다.</h4></br></br>
 
-          <button type="button" name="button" onclick="./pages/mainPage.php">홈페이지로 들어가기</button>
+          <button type="button" name="button" onclick="location.href='./mainPage.php'">홈페이지로 들어가기</button>
           <button type="button" name="button" onclick="window.open('https://www.hanyang.ac.kr/')">한양대학교 홈페이지</button>
         </div>
 
