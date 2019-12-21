@@ -16,35 +16,7 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <script>
-      $(document).ready(function(){
-        var imagesCount = 7, nowImgNo = 2;
-        var totalHTMLStr = "";
-        for(var i=1;i<=imagesCount;++i){
-          if(i!=1){
-            totalHTMLStr += "<img id='"+i+"_img' src='./assets/"+i+".png' alt='' style='visibility:hidden;'>";
-          }else {
-            totalHTMLStr += "<img id='"+i+"_img' src='./assets/"+i+".png' alt='' style='visibility:visible;'>";
-          }
-        }
-        $('.slides').html(totalHTMLStr);
-
-        setInterval(function(){
-          var imgId = "#" + nowImgNo + "_img";
-          if(nowImgNo - 1 <= 0){
-            var prevImgId = "#" + imagesCount + "_img";
-            $(prevImgId).css("visibility", "hidden");
-          }else {
-            var prevImgId = "#" + (nowImgNo-1) + "_img";
-            $(prevImgId).css("visibility", "hidden");
-          }
-
-          $(imgId).css("visibility", "visible");
-          nowImgNo = nowImgNo + 1;
-          if(nowImgNo > imagesCount) nowImgNo = 1;
-        },2500);
-
-        //$("#2_img").css("visibility", "hidden");
-      });
+      $(document).ready(function(){var imagesCount=7,nowImgNo=2;var totalHTMLStr="";for(var i=1;i<=imagesCount;++i){if(i!=1){totalHTMLStr+="<img id='"+i+"_img' src='./assets/"+i+".png' alt='' style='visibility:hidden;'>"}else{totalHTMLStr+="<img id='"+i+"_img' src='./assets/"+i+".png' alt='' style='visibility:visible;'>"}}$('.slides').html(totalHTMLStr);setInterval(function(){var imgId="#"+nowImgNo+"_img";if(nowImgNo-1<=0){var prevImgId="#"+imagesCount+"_img";$(prevImgId).css("visibility","hidden")}else{var prevImgId="#"+(nowImgNo-1)+"_img";$(prevImgId).css("visibility","hidden")}$(imgId).css("visibility","visible");nowImgNo=nowImgNo+1;if(nowImgNo>imagesCount)nowImgNo=1},2500)});
     </script>
   </head>
   <body>
