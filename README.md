@@ -1,5 +1,4 @@
-# Hanyang ERICA Univ. Division Of Computer science 
-#                         web page renewal project
+# Hanyang ERICA Univ. Division Of Computer science web page renewal project
 
 ## 0. Members (구성원)
 #### - 이용현 2019034684 / A1paBeta
