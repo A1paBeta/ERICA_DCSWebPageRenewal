@@ -31,7 +31,7 @@
   </article>
   <div class="contents">
     <div class="mainImg">
-      <img id="mainImg" src="./assets/main_img.jpg" alt="" width="1100px" height="305px">
+      <img id="mainImg" src="./assets/main_img.png" alt="" width="1100px" height="305px">
     </div>
 
     <div class="department">
