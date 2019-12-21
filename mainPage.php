@@ -11,21 +11,21 @@
     <ul>
       <p><a href="#">Sign-In</a></p>
       <p><a href="http://portal.hanyang.ac.kr" target="_blank">HY-IN</a></p>
-      <p><a href="#">오시는길</a></p>
-      <p><a href="https://www.hanyang.ac.kr" target="_blank">홈으로</a></p>
+      <p><a href="http://sw.hanyang.ac.kr/about/location.php">오시는길</a></p>
+      <p><a href="./index.php" target="_blank">홈으로</a></p>
     </ul>
   </header>
 
   <article class="">
     <nav>
       <img id="logo" src="./assets/logo.png" alt="">
-      <ul>
-        <li>학생활동</li>
-        <li>게시판</li>
-        <li>교육사업</li>
-        <li>학사정보</li>
-        <li>구성원</li>
-        <li>학부소개</li>
+      <ul style="padding-left: 29%;">
+        <li><a href="http://sw.hanyang.ac.kr/about/intro.php">학부소개</a></li>
+        <li><a href="http://sw.hanyang.ac.kr/members/professor.php?ptype=list&code=professor&category=43">구성원</a></li>
+        <li><a href="http://sw.hanyang.ac.kr/info/curriculum.php?category=27">학사정보</a></li>
+        <li><a href="http://sw.hanyang.ac.kr/edu/software.php">교육사업</a></li>
+        <li><a href="http://sw.hanyang.ac.kr/board/notice.php">게시판</a></li>
+        <li><a href="http://sw.hanyang.ac.kr/student/lent.php">학생활동</a></li>
       </ul>
     </nav>
   </article>

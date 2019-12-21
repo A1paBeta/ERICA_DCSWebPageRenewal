@@ -36,17 +36,18 @@ nav > *{
 
 nav > ul{
   width: 76%;
+
 }
-nav > ul > li{
+nav > ul > li > a{
   color: #000;
-    font-size: 15pt;
-    margin: auto 3%;
-    float: right;
+      font-size: 14pt;
+      margin: auto 0%;
+      float: right;
 }
 nav > ul > li:hover{
   cursor: pointer;
 }
 #logo{
   height: 90%;
-      margin-left: 5%;
+      margin-left: 4%;
 }
