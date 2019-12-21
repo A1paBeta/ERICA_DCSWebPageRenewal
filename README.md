@@ -1,4 +1,5 @@
-# Hanyang ERICA Univ. Division Of Computer science web page renewal project
+# Hanyang ERICA Univ. Division Of Computer science 
+#                         web page renewal project
 
 ## 0. Members (구성원)
 #### - 이용현 2019034684 / A1paBeta
@@ -20,8 +21,8 @@
 #### - HTML에서 header, article, footer의 구성을 이해한다.
 #### - JS를 활용하여 이미지 슬라이드를 제작해본다.
 #### - Youtube 영상을 IFrame으로 참조하는 작업을 진행한다.
-#### 본 프로젝트는 웹 사이트 Copy를 통해 웹 개발을 접해보기 위한 프로젝트이다. Copy 대상 사이트로 소프트웨어학부 페이지를 선정했으며,
-#### 인트로 페이지와 메인 페이지를 수정해봄으로서 웹 개발 & 디자인을 해보는 경험을 할 수 있었다.
+####   본 프로젝트는 웹 사이트 Copy를 통해 웹 개발을 접해보기 위한 프로젝트이다. Copy 대상 사이트로 소프트웨어학부 페이지를 선정했으며,
+####   인트로 페이지와 메인 페이지를 수정해봄으로서 웹 개발 & 디자인을 해보는 경험을 할 수 있었다.
 
 ## 4. Making Issue (개발 중 이슈)
 #### 가. 인트로 페이지(index.php)에서 이미지 슬라이드 라이브러리를 외부참조했으나, 적용되지 않았다.
