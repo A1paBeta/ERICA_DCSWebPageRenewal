@@ -46,6 +46,6 @@
 
 #### 한양대학교 소프트웨어학부 홈페이지와 한양대학교 홈페이지를 들어갈 수 있는 화면입니다. 
 <img width="1680" alt="main" src="https://user-images.githubusercontent.com/55147540/71321001-dc039b00-24f6-11ea-9799-69ad27c557bb.png">
-<img width="1680" alt="main2" src="https://user-images.githubusercontent.com/55147540/71321017-fc335a00-24f6-11ea-9fe2-f9b986f8eb1f.png">
+![스크린샷 2019-12-22 오후 8 19 17](https://user-images.githubusercontent.com/55147540/71321104-613b7f80-24f8-11ea-92a4-6897c1f3553f.png)
 
 #### 소프트웨어학부 메인 페이지입니다. 교과과정, 입학안내, 장학제도, 성적졸업에 대한 정보가 있는 학사정보와 홍보자료를 볼 수 있도록 구성 했습니다. 
